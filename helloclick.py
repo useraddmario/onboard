@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 import click
 
-#not_found =
+not_found =
 
 @click.command()
 def hello():
